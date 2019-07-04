@@ -1,0 +1,50 @@
+.name_person {
+      position: relative; 
+      color: #ddbdbd;
+      background: #e95553;
+      font-size: 150pt;
+}
+
+#main_section {
+      background: #d2d0d2;
+      font-size:50px;
+
+}
+
+.Zagolovok {
+      background: #654e71;
+      font-size: 60px;
+      color: #ddbdbd;
+}
+
+.Vk:hover{
+background:#3982e3;
+font-size:35px;
+border: 5px solid;
+text-align:  center;
+}
+
+.Ins:hover{
+background:#e33979;
+font-size:35px;
+border: 5px solid;
+text-align:  center;
+}
+
+.WA:hover{
+background:#39e34c;
+font-size:35px;
+border: 5px solid;
+text-align:  center;
+}
+
+.TL:hover{
+background:#3982e3;
+font-size:35px;
+border: 5px solid;
+text-align:  center;
+}
+
+ul{
+  font-size:35px;
+}
